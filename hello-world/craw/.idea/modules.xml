@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../NTU_crawer/.idea/NTU_crawer.iml" filepath="$PROJECT_DIR$/../NTU_crawer/.idea/NTU_crawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/craw.iml" filepath="$PROJECT_DIR$/.idea/craw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testing/.idea/testing.iml" filepath="$PROJECT_DIR$/../testing/.idea/testing.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+
+<html>
+<head>
+</head>
+<body>
+<div align="center">
+    <h1>Leave Your Email</h1>
+    {% if message != None %}
+    {{ message }}
+    {% endif %}
+<form method="post">
+    Email: {{ form.email }}
+    </br>
+    Message: {{ form.text_aera }}
+    </br>
+    <input type="submit" value="submit"/>
+    <input type="reset" value="reset"/>
+</form>
+</div>
+</body>
+</html>
